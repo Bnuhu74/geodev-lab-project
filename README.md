@@ -1,6 +1,6 @@
 MY PROJECT BRIEF
 
-THE QUESTION
+RESEARCH QUESTION
 
 
 How are public facilities distributed across Kaduna North Local Government Area
