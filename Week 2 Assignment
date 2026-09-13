@@ -1,0 +1,31 @@
+1. ‎Schools
+‎
+‎Source: GRID3 Nigeria Schools
+‎Source link: https://data.grid3.org/datasets/8aef208577664f859c44a18f61238a90_0/explore?location=9.078175%2C8.689679%2C4
+‎Geometry: Point
+‎Number of features: [110]
+‎Key columns: School name, LGA, ward and location fields.
+‎Data gaps: Some attribute fields contain missing information.
+‎
+1. ‎Health Facilities
+‎
+‎Source: GRID3 Nigeria Health Facilities
+‎Source link:https://data.grid3.org/datasets/a0ed9627a8b240ff8b315a84575754a4_0/explore?location=9.699309%2C7.411093%2C7 
+‎Geometry: Point
+‎Number of features: [80]
+‎Key columns: Facility name, facility type, ownership, LGA, latitude and longitude.
+‎Data gaps: Some records have missing attribute information.
+‎
+‎
+1. ‎Market
+‎
+‎Source: GRID3 Nigeria Fire Stations
+‎Source link:https://data.grid3.org/datasets/38201adf2211405989d83c546a58c8fb_0/explore?location=9.027920%2C8.672295%2C4 
+‎Geometry: Point
+‎Number of features: [10]
+‎Key columns: Station name, LGA, ward, latitude and longitude.
+‎Data gaps: The dataset may not contain all fire stations, and some attribute values may be missing.
+‎
+‎Data Processing
+‎
+‎The datasets were downloaded from GRID3 and opened in QGIS. They were filtered to Kaduna North LGA for further analysis of the spatial distribution of the selected public facilities.
