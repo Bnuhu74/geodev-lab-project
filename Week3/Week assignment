@@ -1,0 +1,38 @@
+schools 
+extracted 13/9/2026 via Grid3
+
+
+110 features
+
+
+completeness: some  schools appear to have double points, and one point fall within road network
+currency: August 2024
+
+
+positional: most school aligned well, some has 2 point, only one point fall on road
+
+
+attributes: complete
+
+
+fitness: no, other schools might exist after 2024 within the study area
+
+health facilities
+extracted 12/2/2026
+
+80 features
+
+
+completeness: completed
+
+
+positional: aligned in good position
+
+
+
+attribute: complete
+
+
+fitness; fit very well
+
+
